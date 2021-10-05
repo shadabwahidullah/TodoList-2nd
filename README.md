@@ -1,18 +1,29 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Webpack Boiler plate
+# TO DO LIST
 
-> this is a boiler plate for starting a project that I will configure webpack in it.
->  When working on the project you will not want to run the build command from the terminal every time you make a change in the code. Therefore I will install a webpack dev server, which will watch my source files, generate compiled distribution files and even refresh the browser every time I save changes in the source code.
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. I will build a simple website that allows for doing that, and I will do it using ES6 and Webpack!
+>  I will build a very simple yet powerful to-do list. It will be inspired by the minimalist website. That website is already offline but you can still play with thanks to [web.archive.org](web.archive.org).
+
+## Link to Webpage
+
+You can visit this Todo list [here](https://shadabwahidullah.github.io/toDoList/dist/).
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-clone the project and you can start your own project on it.
+open your terminal and clone the project using 
+
+`git clone https://github.com/shadabwahidullah/TodoList-2nd.git`
+
+install or update your npm using
+
+`npm update`
+
+start your local server and build project using
+
+`npm start`
+
 
 ## Authors
 
