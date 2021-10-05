@@ -1,0 +1,98 @@
+body {
+  color: rgb(77, 72, 72);
+}
+
+.container {
+  min-height: 100vh;
+}
+
+.title {
+  height: 60px;
+}
+
+.listWrapper {
+  border: 1px solid #ccc;
+  width: 50%;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.flex-space-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+
+.margin {
+  margin: 10px;
+}
+
+.flex-h {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.newTaskName {
+  width: 90%;
+}
+
+.list {
+  width: 100%;
+}
+
+.taskWidth {
+  width: 86%;
+}
+
+.text {
+  background: none;
+  border: none;
+  height: 50px;
+  font-size: 20px;
+  color: rgb(77, 72, 72);
+}
+
+.text:focus-visible {
+  background: none;
+  border: none;
+  outline: none;
+  appearance: none;
+}
+
+.button {
+  width: 100%;
+  height: 60px;
+  border-radius: 0;
+  font-size: 20px;
+  color: rgb(77, 72, 72);
+}
+
+#newTask {
+  padding: 10px 15px;
+  font-style: italic;
+}
+
+.fa {
+  width: 30px;
+  height: 50px;
+  color: rgb(110, 106, 106);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fa:hover {
+  color: black;
+}
+
+.hidden {
+  display: none;
+}
