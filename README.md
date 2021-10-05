@@ -7,7 +7,7 @@
 
 ## Link to Webpage
 
-You can visit this Todo list [here](https://shadabwahidullah.github.io/toDoList/dist/).
+You can visit this Todo list [here](https://shadabwahidullah.github.io/TodoList-2nd/dist/).
 
 ## Getting Started
 
