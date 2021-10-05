@@ -5,6 +5,9 @@
 > "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. I will build a simple website that allows for doing that, and I will do it using ES6 and Webpack!
 >  I will build a very simple yet powerful to-do list. It will be inspired by the minimalist website. That website is already offline but you can still play with thanks to [web.archive.org](web.archive.org).
 
+![image](https://user-images.githubusercontent.com/51750930/136046900-8f237f83-a956-476c-b236-a1ddc24afb22.png)
+
+
 ## Link to Webpage
 
 You can visit this Todo list [here](https://shadabwahidullah.github.io/TodoList-2nd/dist/).
